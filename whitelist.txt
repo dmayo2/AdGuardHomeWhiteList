@@ -1,6 +1,7 @@
 # My Adguard Home whitelist forked
 # Dobb's Additions
 @@||newsbreak.com^$important
+@@||tiktok.com^$important
 # Instagram
 @@||cdninstagram.com^$important
 # F1 TV
