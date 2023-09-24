@@ -2,6 +2,7 @@
 # Dobb's Additions
 @@||newsbreak.com^$important
 @@||tiktok.com^$important
+@@||seller-us-accounts.tiktok.com
 # Instagram
 @@||cdninstagram.com^$important
 # F1 TV
