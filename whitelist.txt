@@ -6,8 +6,8 @@
 # Instagram
 @@||cdninstagram.com^$important
 
-westottawa.familyportal.cloud^$important
-
+@@||westottawa.familyportal.cloud^$important
+@@||app.konnectzit.com^$important
 # F1 TV
 @@||f1-prod-production.apigee.net^$important
 @@||f1tv-cdn-cent-east.formula1.com.c.footprint.net^$important
