@@ -3,9 +3,9 @@
 @@||newsbreak.com^$important
 @@||tiktok.com^$important
 @@||seller-us-accounts.tiktok.com
+@@||shareasale.com
 # Instagram
 @@||cdninstagram.com^$important
-
 @@||westottawa.familyportal.cloud^$important
 @@||app.konnectzit.com^$important
 # F1 TV
