@@ -20,6 +20,7 @@
 # Google
 @@||0.client-channel.google.com^$important
 @@||analytics.google.com^$important
+@@||marketingplatform.google.com^$important
 @@||2.android.pool.ntp.org^$important
 @@||android.clients.google.com^$important
 @@||clients1.google.com^$important
