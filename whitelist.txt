@@ -4,6 +4,7 @@
 @@||tiktok.com^$important
 @@||seller-us-accounts.tiktok.com
 @@||shareasale.com
+@@||jvzoo.com^$important
 # Instagram
 @@||cdninstagram.com^$important
 @@||westottawa.familyportal.cloud^$important
