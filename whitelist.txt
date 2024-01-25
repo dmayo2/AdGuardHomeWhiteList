@@ -5,6 +5,8 @@
 @@||seller-us-accounts.tiktok.com
 @@||shareasale.com
 @@||jvzoo.com^$important
+# publishing
+@@||publishing.com^$important
 # Instagram
 @@||cdninstagram.com^$important
 @@||westottawa.familyportal.cloud^$important
