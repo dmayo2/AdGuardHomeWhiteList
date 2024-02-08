@@ -6,8 +6,8 @@
 @@||shareasale.com
 @@||jvzoo.com^$important
 @@||awin.com^$important
+@@||partnerstack.com^$important
 @@||payments.xfinity.com^$important
-@@||personpay.com^$important
 # publishing
 @@||publishing.com^$important
 # Instagram
