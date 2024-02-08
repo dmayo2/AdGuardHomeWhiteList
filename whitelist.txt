@@ -5,6 +5,7 @@
 @@||seller-us-accounts.tiktok.com
 @@||shareasale.com
 @@||jvzoo.com^$important
+@@||awin.com^$important
 @@||payments.xfinity.com^$important
 @@||personpay.com^$important
 # publishing
