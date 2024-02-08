@@ -6,6 +6,7 @@
 @@||shareasale.com
 @@||jvzoo.com^$important
 @@||payments.xfinity.com^$important
+@@||personpay.com^$important
 # publishing
 @@||publishing.com^$important
 # Instagram
