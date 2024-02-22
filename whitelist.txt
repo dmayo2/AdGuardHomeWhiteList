@@ -10,6 +10,8 @@
 @@||payments.xfinity.com^$important
 # publishing
 @@||publishing.com^$important
+# hosting
+@@||hostwindsdns.com^$important
 # Instagram
 @@||cdninstagram.com^$important
 @@||westottawa.familyportal.cloud^$important
