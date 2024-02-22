@@ -12,6 +12,7 @@
 @@||publishing.com^$important
 # hosting
 @@||hostwindsdns.com^$important
+@@||dal-business-59.hostwindsdns.com^$important
 # Instagram
 @@||cdninstagram.com^$important
 @@||westottawa.familyportal.cloud^$important
