@@ -10,6 +10,8 @@
 @@||payments.xfinity.com^$important
 # publishing
 @@||publishing.com^$important
+# Oddball
+@@||https://vwvoiceswanted.recollective.com^$important
 # hosting
 @@||hostwindsdns.com^$important
 @@||dal-business-59.hostwindsdns.com^$important
