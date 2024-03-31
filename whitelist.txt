@@ -9,6 +9,7 @@
 @@||partnerstack.com^$important
 @@||payments.xfinity.com^$important
 @@||apple.com^$important
+@@||netnanny.com^$important
 # publishing
 @@||publishing.com^$important
 # Oddball
