@@ -14,6 +14,7 @@
 @@||publishing.com^$important
 # Oddball
 @@||https://vwvoiceswanted.recollective.com^$important
+@@||linguix.com^$important
 # hosting
 @@||hostwindsdns.com^$important
 @@||dal-business-59.hostwindsdns.com^$important
