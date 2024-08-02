@@ -3,6 +3,7 @@
 @@||newsbreak.com^$important
 @@||tiktok.com^$important
 @@||seller-us-accounts.tiktok.com
+@@||creatormarketplace.tiktok.com^$important
 @@||shareasale.com
 @@||jvzoo.com^$important
 @@||awin.com^$important
