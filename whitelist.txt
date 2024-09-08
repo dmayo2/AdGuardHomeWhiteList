@@ -17,6 +17,7 @@
 @@||https://vwvoiceswanted.recollective.com^$important
 @@||linguix.com^$important
 @@||app.linguix.com^$important
+@@||us.ohpolly.com^important
 # hosting
 @@||hostwindsdns.com^$important
 @@||dal-business-59.hostwindsdns.com^$important
