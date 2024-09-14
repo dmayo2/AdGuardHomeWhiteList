@@ -14,6 +14,7 @@
 # publishing
 @@||publishing.com^$important
 # Oddball
+@@||app.monstercampaigns.com^$important
 @@||https://vwvoiceswanted.recollective.com^$important
 @@||linguix.com^$important
 @@||app.linguix.com^$important
