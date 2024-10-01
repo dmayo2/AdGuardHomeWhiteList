@@ -11,6 +11,8 @@
 @@||payments.xfinity.com^$important
 @@||apple.com^$important
 @@||netnanny.com^$important
+# advertising
+@@||amazon.com^$important
 # publishing
 @@||publishing.com^$important
 # Oddball
