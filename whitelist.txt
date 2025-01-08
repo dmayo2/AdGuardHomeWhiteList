@@ -13,6 +13,7 @@
 @@||netnanny.com^$important
 # advertising
 @@||amazon.com^$important
+@@||maxbounty.com
 # publishing
 @@||publishing.com^$important
 # Oddball
