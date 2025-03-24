@@ -24,6 +24,7 @@
 @@||linguix.com^$important
 @@||app.linguix.com^$important
 @@||us.ohpolly.com^important
+@@||joinhoney.com^important
 # hosting
 @@||hostwindsdns.com^$important
 @@||dal-business-59.hostwindsdns.com^$important
