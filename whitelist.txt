@@ -12,6 +12,8 @@
 @@||apple.com^$important
 @@||netnanny.com^$important
 @@||rateyoursupplements.com^$important
+@@||truconversion.com^$important
+@@||spotify.com^$important
 # advertising
 @@||amazon.com^$important
 @@||maxbounty.com
